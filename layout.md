@@ -1,6 +1,6 @@
 Abstract.tex
 Introduction.tex
-section_Methods_The_authors_searched__.tex
+Methods.tex
 section_Results_139_articles_reporting__.tex
 section_Discussion_The_existing_literature__.tex
 section_Conclusions_Since_1959_at__.tex
