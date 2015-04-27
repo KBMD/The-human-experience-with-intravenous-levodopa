@@ -1,6 +1,6 @@
 #Fake section heading
 ##Fake subsection the first
-THis is an important part of life \cite{25580234}. The _literati_ think they know everything. And *Webster's* says yes, they do. 
+THis is an important part of life \cite{25580234}. The _literati_ think they know everything. And **Webster's** says yes, they do. 
 
 YOu can also include code sections (I think), like this:
 
