@@ -1,6 +1,10 @@
 article_info.tex
 Abstract.tex
+Keywords.tex
 Introduction.tex
 Methods.tex
 Results.tex
 Discussion.tex
+Acknowledgments.md
+Author_contributions.md
+Competing_interests.md
