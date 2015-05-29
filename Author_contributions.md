@@ -1,8 +1,8 @@
 # Author contributions
-Literature search: SHS, C\_D, C\_G, KJB
+Literature search: SHS, CLG, NKA, CD, KJB
 
-Writing: SHS, C\_G, KJB
+Writing: SHS, CLG, KJB
 
-Statistics: N\_A, KJB
+Translation from German: MK
 
-Translation from German: M\_K
+All authors reviewed and approved the final draft.
