@@ -1,4 +1,4 @@
-article_info.tex
+authors.tex
 Abstract.tex
 Keywords.tex
 Introduction.tex
