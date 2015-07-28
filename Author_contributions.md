@@ -7,5 +7,5 @@ Translation from German: MK
 
 All authors reviewed and approved the final draft.
 
-This is _italics_ and this is **bold**.
+  
   
